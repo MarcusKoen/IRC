@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1770038850 source:c:\users\janedoe\onedrive - university of south africa\personal\irc\irc\irc\client.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+
